@@ -1,0 +1,20 @@
+{
+  "mode": "demo",
+  "environment": "accept",
+  "auth_mode": "client_credentials",
+  "client_id": "",
+  "client_secret": "",
+  "access_token": "",
+  "api_key": "",
+  "refresh_token": "",
+  "access_token_expires_at": 0,
+  "oauth_redirect_url": "",
+  "scope": "",
+  "management_token": "",
+  "webhook_url": "",
+  "sender_organization": false,
+  "qes_issuance_enabled": false,
+  "qes_constraints": [],
+  "mobywatel_constraints": [],
+  "qes_mobywatel_constraints": []
+}
